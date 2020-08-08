@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hey! I'm Nidia.</h2>
 
-<!--
-**garman1001/garman1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👩 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring the world of Linux and developing scripts!
+- 🌱 &nbsp; Learning about Computer Science, Artificial Intelligence, and Cryptography.
+- ✍  &nbsp; Learning Graphic Design and Media Production as hobbies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack </h3>
+- 💻 &nbsp; Python | Java     |
+<br />
+- 🌐 &nbsp; HTML   | CSS      | JavaScript | Node.js
+<br />
+- 🔧 &nbsp; Git    | Markdown |
+<br />
+- 🖥  &nbsp; GIMP   | Krita    | Inkscape   | Darktable |
+<br />
+
+[![Nidia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garman1001&show_icons=true)](https://github.com/garman1001)
+
+⭐️ From [Nidia](https://github.com/garman1001)
+
+
