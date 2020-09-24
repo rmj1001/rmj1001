@@ -11,7 +11,7 @@
 <br />
 - 🔧 Git, Markdown
 <br />
-- 🖌 GIMP, Krita, Inkscape, Darktable |
+- 🖌 GIMP, Krita, Inkscape, Darktable
 <br />
 
 [![Nidia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garman1001&show_icons=true)](https://github.com/garman1001)
