@@ -16,7 +16,12 @@
 🖌 GIMP, Krita, Inkscape, Darktable
 <br />
 
-[![Nidia's github stats](https://github-readme-stats.vercel.app/api?username=garman1001&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/garman1001)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=garman1001)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/garman1001)
+
 ![I Voted](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
 
 ⭐️ From [Nidia](https://github.com/garman1001)
