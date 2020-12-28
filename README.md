@@ -16,12 +16,8 @@
 🖌 GIMP, Krita, Inkscape, Darktable
 <br />
 
-![Profile views](https://gpvc.arturio.dev/nidia-achrys)
+⭐️ From [Nidia](https://github.com/nidia-achrys)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nidia-achrys&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/nidia-achrys)
-
-![I Voted](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
-
-⭐️ From [Nidia](https://github.com/nidia-achrys)
