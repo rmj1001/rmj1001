@@ -1,6 +1,6 @@
 # Nidia Achrys! 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRogue-Halo)](https://hits.seeyoufarm.com)
-## 😎 About Me:
+## 😎 About Me
  * __Programmer__
  * __Graphic Designer__
  * __Linux SysAdmin__
@@ -31,7 +31,7 @@
  * Vector Graphics (Inkscape)
 
 
- ## 📈 Github Stats:
+ ## 📈 Github Stats
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=nidia-achrys&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
