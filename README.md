@@ -1,5 +1,5 @@
-# Nidia Achrys! 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRogue-Halo)](https://hits.seeyoufarm.com)
+# Roy C! 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frmj1001)](https://hits.seeyoufarm.com)
 ## 😎 About Me
  * __Programmer__
  * __Graphic Designer__
@@ -33,6 +33,6 @@
 
  ## 📈 Github Stats
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=nidia-achrys&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rmj1001&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/nidia-achrys)
+![GitHub metrics](https://metrics.lecoq.io/rmj1001)
