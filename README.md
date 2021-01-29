@@ -1,23 +1,38 @@
-## Hey! I'm Nidia!
+# Nidia Achrys! 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRogue-Halo)](https://hits.seeyoufarm.com)
+## 😎 About Me:
+ * __Programmer__
+ * __Graphic Designer__
+ * __Linux SysAdmin__
+ * __Quality Assurance Tester__
+ 
+ ## ⏰ Currently
+ * Listening to music
+ 
+ ## 📓 Learning
+ * Rust
+ * Cryptography
+ * AI
+ * Philosophy :)
+ 
+ ## 🖥️ Tech Stack
+ __Systems__
+ * Python 3
+ * Shell Scripting (Bash)
 
-### 👩 About Me
+ __Web Development__
+ * JavaScript
+ * TypeScript
+ * NodeJS
 
-🤔 Exploring the world of Linux and developing scripts!
-<br />
-🌱 Learning about Computer Science, Artificial Intelligence, and Cryptography.
-<br />
-✍ Learning Graphic Design and Media Production as hobbies.
+ __Other__
+ * Video Editing (Kdenlive)
+ * Image Manipulation (GIMP/Krita/Darktable)
+ * Vector Graphics (Inkscape)
 
-### 🛠 Tech Stack
-💻 Python, JavaScript, TypeScript, Node.js, HTML/CSS
-<br />
-🔧 Git, Markdown
-<br />
-🖌 GIMP, Krita, Inkscape, Darktable
-<br />
 
-⭐️ From [Nidia](https://github.com/nidia-achrys)
-
+ ## 📈 Github Stats:
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nidia-achrys&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/nidia-achrys)
