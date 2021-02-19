@@ -1,10 +1,10 @@
 # Roy C! 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frmj1001)](https://hits.seeyoufarm.com)
 ## 😎 About Me
- * __Programmer__
- * __Graphic Designer__
- * __Linux SysAdmin__
- * __Quality Assurance Tester__
+ * Programmer
+ * Graphic Designer
+ * Linux SysAdmin
+ * Quality Assurance Tester
  
  ## ⏰ Currently
  * Listening to music
