@@ -34,5 +34,3 @@
  ## 📈 Github Stats
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=rmj1001&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/rmj1001)
