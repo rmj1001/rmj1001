@@ -1,15 +1,17 @@
-# Roy Conn 👋
+# Genesius of Walsingham 👋
 
-19 year old linux nerd 🐧
+21 year old linux nerd 🐧
 
 ## 📢️ Social Media
 
-* [YouTube](https://https://www.youtube.com/channel/UCEOW3L0mcBhwfkmoFZtSM5Q)
-* [Mastodon](https://fosstodon.com/@Hydra_Slash_Linux)
+* [YouTube](https://youtube.com/@GenesiusOfWalsingham)
 * [Github](https://github.com/rmj1001)
+* [Reddit](https://www.reddit.com/user/AnglicanorumCoetibus)
+* [Catholic Diocese of Discord](https://discord.gg/catholic-diocese)
 
 ## 😎 About Me
 
+* Ordinariate Catholic
 * Programmer
 * Graphic Designer
 * Linux SysAdmin
