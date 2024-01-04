@@ -1,6 +1,6 @@
 # Genesius of Walsingham 👋
 
-21 year old linux nerd 🐧
+21 year old hobbyist software developer and UNIX/Linux enthusiast 🐧
 
 ## 📢️ Social Media
 
@@ -19,9 +19,17 @@
 
 ## 🖥️ Tech Stack
 
-__Systems__
+__Operating Systems__
+* Ubuntu Linux
+* Fedora Linux
+* Arch Linux
+* MacOS (current daily driver)
 
-* Python 3
+__Languages & Scripting__
+
+* Python
+* Rust
+* Java
 * Shell Scripting (Bash)
 
  __Web Development__
