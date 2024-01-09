@@ -7,6 +7,7 @@
 * [YouTube](https://youtube.com/@GenesiusOfWalsingham)
 * [Github](https://github.com/rmj1001)
 * [Reddit](https://www.reddit.com/user/AnglicanorumCoetibus)
+* [Discord Profile](https://discord.gg/UN8ncfyM)
 * [Catholic Diocese of Discord](https://discord.gg/catholic-diocese)
 
 ## 😎 About Me
