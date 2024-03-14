@@ -1,6 +1,6 @@
-# Genesius of Walsingham 👋
+# Roy 👋
 
-21 year old hobbyist software developer and UNIX/Linux enthusiast 🐧
+22 year old hobbyist software developer and UNIX enthusiast 🐧
 
 ## 📢️ Social Media
 
@@ -28,16 +28,20 @@ __Operating Systems__
 
 __Languages & Scripting__
 
-* Python
 * Rust
-* Java
 * Shell Scripting (Bash)
+* Python
+* Java
 
  __Web Development__
 
 * JavaScript
 * TypeScript
 * NodeJS
+
+__DevOps__
+
+* Docker
 
  __Other__
 
