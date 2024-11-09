@@ -1,14 +1,6 @@
 # Roy 👋
 
-22 year old hobbyist software developer and UNIX enthusiast 🐧
-
-## 📢️ Social Media
-
-* [YouTube](https://youtube.com/@GenesiusOfWalsingham)
-* [Github](https://github.com/rmj1001)
-* [Reddit](https://www.reddit.com/user/AnglicanorumCoetibus)
-* [Discord Profile](https://discord.gg/UN8ncfyM)
-* [Catholic Diocese of Discord](https://discord.gg/catholic-diocese)
+Accounting Student & Amateur Software Developer
 
 ## 😎 About Me
 
